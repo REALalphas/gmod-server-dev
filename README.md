@@ -5,5 +5,5 @@
 2. Откройте
 3. Укажите путь до srcds.exe
 4. Наслаждайтесь
-#### [Скачать (GitHub)](https://github.com/REALalphas/gmod-server-dev/releases/download/latest/gmodServerDev.exe)
+#### [Скачать (GitHub)](https://github.com/REALalphas/gmod-server-dev/releases/latest/)
 ![](https://cdn.discordapp.com/attachments/698548894144921634/848725025031716915/unknown.png)
