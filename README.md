@@ -1,4 +1,4 @@
-# gmodServerDev 0.2
+# gmodServerDev
 #### Помощник в создании сервера Garry's Mod.
 Инструкция
 1. Разместите в уютной папочке
@@ -6,4 +6,4 @@
 3. Укажите путь до srcds.exe
 4. Наслаждайтесь
 #### [Скачать (GitHub)](https://github.com/REALalphas/gmod-server-dev/releases/latest/)
-![](https://cdn.discordapp.com/attachments/698548894144921634/848725025031716915/unknown.png)
+![](https://i.imgur.com/oc5v0s8.png)
